@@ -4,15 +4,15 @@
 
 ## Description of the robot:
 
-![image-20201103103057770](/Users/nikitasmirnov/Desktop/Общая библиотека/InnoCore/FOR/HWs/HW1/for-hw-1/image-20201103103057770.png)
+![image-20201103103057770](image-20201103103057770.png)
 
 6 d.o.f
 
-![image-20201103103141668](/Users/nikitasmirnov/Desktop/Общая библиотека/InnoCore/FOR/HWs/HW1/for-hw-1/image-20201103103141668.png)
+![image-20201103103141668](image-20201103103141668.png)
 
 ## Kinematic Scheme
 
-![image-20201103104341588](/Users/nikitasmirnov/Desktop/Общая библиотека/InnoCore/FOR/HWs/HW1/for-hw-1/image-20201103104341588.png)
+![image-20201103104341588](image-20201103104341588.png)
 
 5 links (in schematic representation). Near each link (including 2 real links ) depicted their size.
 
